@@ -9,6 +9,7 @@
   # Pods for IOSParstagram
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 
   target 'IOSParstagramTests' do
